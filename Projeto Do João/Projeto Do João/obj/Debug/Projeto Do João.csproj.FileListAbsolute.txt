@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\bin\Debug\Projeto Do João.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\bin\Debug\Projeto Do João.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\bin\Debug\Projeto Do João.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\obj\Debug\Projeto Do João.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\obj\Debug\Projeto Do João.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\obj\Debug\Projeto Do João.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Projeto Do João\Projeto Do João\obj\Debug\Projeto Do João.pdb
