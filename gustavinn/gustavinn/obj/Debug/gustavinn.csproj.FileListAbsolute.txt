@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\bin\Debug\gustavinn.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\bin\Debug\gustavinn.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\bin\Debug\gustavinn.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\gustavinn\gustavinn\obj\Debug\gustavinn.pdb

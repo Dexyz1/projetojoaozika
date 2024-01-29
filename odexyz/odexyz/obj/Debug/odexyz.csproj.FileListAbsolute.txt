@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\bin\Debug\odexyz.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\bin\Debug\odexyz.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\bin\Debug\odexyz.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\odexyz\odexyz\obj\Debug\odexyz.pdb

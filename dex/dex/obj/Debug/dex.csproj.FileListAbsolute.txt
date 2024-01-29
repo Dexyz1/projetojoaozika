@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\bin\Debug\dex.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\bin\Debug\dex.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\bin\Debug\dex.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dex\dex\obj\Debug\dex.pdb

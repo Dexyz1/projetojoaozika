@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\bin\Debug\Tigelovisk.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\bin\Debug\Tigelovisk.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\bin\Debug\Tigelovisk.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\obj\Debug\Tigelovisk.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\obj\Debug\Tigelovisk.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\obj\Debug\Tigelovisk.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelovisk\Tigelovisk\obj\Debug\Tigelovisk.pdb

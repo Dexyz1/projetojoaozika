@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\bin\Debug\dexyzim.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\bin\Debug\dexyzim.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\bin\Debug\dexyzim.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\dexyzim\dexyzim\obj\Debug\dexyzim.pdb

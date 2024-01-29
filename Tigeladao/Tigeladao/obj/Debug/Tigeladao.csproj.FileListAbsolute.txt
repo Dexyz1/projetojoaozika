@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\bin\Debug\Tigeladao.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\bin\Debug\Tigeladao.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\bin\Debug\Tigeladao.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\obj\Debug\Tigeladao.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\obj\Debug\Tigeladao.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\obj\Debug\Tigeladao.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladao\Tigeladao\obj\Debug\Tigeladao.pdb

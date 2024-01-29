@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\bin\Debug\Tigeladaz.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\bin\Debug\Tigeladaz.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\bin\Debug\Tigeladaz.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\obj\Debug\Tigeladaz.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\obj\Debug\Tigeladaz.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\obj\Debug\Tigeladaz.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigeladaz\Tigeladaz\obj\Debug\Tigeladaz.pdb

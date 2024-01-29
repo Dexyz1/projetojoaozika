@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\bin\Debug\Tigelinha.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\bin\Debug\Tigelinha.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\bin\Debug\Tigelinha.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\obj\Debug\Tigelinha.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\obj\Debug\Tigelinha.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\obj\Debug\Tigelinha.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigelinha\Tigelinha\obj\Debug\Tigelinha.pdb

@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\bin\Debug\Atividade 1.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\bin\Debug\Atividade 1.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\bin\Debug\Atividade 1.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\obj\Debug\Atividade 1.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Atividade 1\Atividade 1\obj\Debug\Atividade 1.pdb

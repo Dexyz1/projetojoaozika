@@ -1,0 +1,7 @@
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\bin\Debug\Tigela.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\bin\Debug\Tigela.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\bin\Debug\Tigela.pdb
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\obj\Debug\Tigela.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\obj\Debug\Tigela.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\obj\Debug\Tigela.exe
+C:\Users\gustavo.ccorreia1\source\repos\projetojoaozika\Tigela\Tigela\obj\Debug\Tigela.pdb
